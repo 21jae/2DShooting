@@ -25,8 +25,9 @@
 ## 담당한 기능
 ![2dshooting](https://github.com/21jae/2DShooting/assets/90013449/8964292e-8f7e-4ff4-8339-894d85e7062c)
 * 게임 기획
-* 게임 배경 제작
-* Stage 1 제작
+* 스테이지1 제작
+  * [Player](https://github.com/21jae/2DShooting/blob/main/Wonjae/1.GameManager/Scripts/Player.cs): 스테이지1의 플레이어
+  * [Boss](https://github.com/21jae/2DShooting/blob/main/Wonjae/1.GameManager/Scripts/M_Script/Sea_monster/WJ_BossPart2.cs): 스테이지1의 보스
 <br/>
 
 
